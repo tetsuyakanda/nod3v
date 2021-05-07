@@ -32,7 +32,7 @@ Clone our repository.
 $ git clone https://github.com/k-shimari/nod4j.git
 ```
 
-After cloning, prepare `nod4j.jar` and `selogger-0.2.1.jar` in this project root.
+After cloning, prepare `nod4j.jar` and `selogger-0.2..jar` in this project root.
 
 * `nod4j.jar` is available on [releases](https://github.com/k-shimari/nod4j/releases) page.
 * `selogger-0.2.1.jar` is already included in this project root.
